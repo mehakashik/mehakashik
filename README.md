@@ -42,6 +42,9 @@ Strong Understanding of OWASP Top 10, ISO 27001, NIST framework, MITRE ATT&CK
 [linkedin]: https://www.linkedin.com/in/mehak-security/
 <br>
 <br>
+<p align="center">
+  <img src="https://github.com/mehakashik/mehakashik/blob/main/assets/line-neon.gif">
+</p>
 
 - 🤔 I’m seeking full time opportunities in the Cybersecurity Domain
 - 🔭 I’m currently working on improving my skills with homelabs

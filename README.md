@@ -1,7 +1,7 @@
 <h1>Hi, I'm Mehak! <br/><a href="https://www.linkedin.com/in/mehak-security/">Cybersecurity Analyst</a></h1>
 
 <p align="center">
-  <img src="https://github.com/mehakashik/mehakashik/blob/main/giphy.gif">
+  <img src="https://github.com/mehakashik/mehakashik/blob/main/assets/Computer-Animation-black.gif">
 </p>
 
 <p align="center"> A detail-oriented cyber security enthusiast and continuous learner </p>
@@ -23,13 +23,16 @@
 
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="mehakashik | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="mehakashik | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="mehakashik | LinkedIn" width="22px" src="https://github.com/mehakashik/mehakashik/blob/main/assets/linkedin.png" />][linkedin]
+[<img align="left" alt="mehakashik | Instagram" width="22px" src="https://github.com/mehakashik/mehakashik/blob/main/assets/instagram.png" />][instagram]
 
 [instagram]: https://www.instagram.com/mehakashik/
 [linkedin]: https://www.linkedin.com/in/mehak-security/
 <br>
-
+<br>
+<br>
+<br>
+<br>
 - 🤔 I’m seeking full time opportunities in the Cybersecurity Domain
 - 🔭 I’m currently working on improving my skills with homelabs
 - 🌱 I’m currently learning more about SIEM tools and its uses

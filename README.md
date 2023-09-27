@@ -1,6 +1,6 @@
 <h1>Hi, I'm Mehak! <br/><a href="https://www.linkedin.com/in/mehak-security/">Cybersecurity Analyst</a></h1>
 
-<div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/RDZo7znAdn2u7sAcWH" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/SandiaLabs-cyber-security-cybersecurity-RDZo7znAdn2u7sAcWH">via GIPHY</a></p>
+![giphy](https://github.com/mehakashik/mehakashik/assets/72126806/ca8068fc-dea1-4425-924c-4e66d0eabfe8) 
 
 <h2>👨‍💻 Cyber Security Projects:</h2>
 - [Mapping Live Cyber Attacks using Azure Sentinel](https://github.com/mehakashik/Mapping-Live-Cyber-Attacks-Using-Azure-Sentinel)

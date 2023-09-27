@@ -25,6 +25,7 @@
 - [ISC2 Certified in Cybersecurity](https://www.credly.com/badges/66ba3ceb-1d30-4e3a-a54c-ed76d506e0f7/public_url)
 
 <h2>🏫 Education</h2>
+
 - Concordia University (M.Engg) : Information Systems Security <br>
 - Gujarat Technological University (B.Engg) : information and Communication Technology
 

@@ -15,7 +15,7 @@
 
 - [Mapping Live Cyber Attacks using Azure Sentinel](https://github.com/mehakashik/Mapping-Live-Cyber-Attacks-Using-Azure-Sentinel)
 - [RSA Algorithm](https://github.com/mehakashik/RSA-Algorithm)
-- [Development of a Mobile Application That Detects Malware in the Device](https://github.com/mehakashik/SecurEaty)
+- [Development of a Mobile Application that Detects Malware in the Device](https://github.com/mehakashik/SecurEaty)
 - Analysis of Privacy and Security of Passwordless Authentication Services
 
 

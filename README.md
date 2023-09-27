@@ -3,9 +3,9 @@
 ![giphy](https://github.com/mehakashik/mehakashik/assets/72126806/ca8068fc-dea1-4425-924c-4e66d0eabfe8) 
 
 <h2>👨‍💻 Cyber Security Projects:</h2>
-- [Mapping Live Cyber Attacks using Azure Sentinel](https://github.com/mehakashik/Mapping-Live-Cyber-Attacks-Using-Azure-Sentinel)
-- [RSA Algorithm](https://github.com/mehakashik/RSA-Algorithm)
-- 
+- [Mapping Live Cyber Attacks using Azure Sentinel](https://github.com/mehakashik/Mapping-Live-Cyber-Attacks-Using-Azure-Sentinel) <br>
+- [RSA Algorithm](https://github.com/mehakashik/RSA-Algorithm)<br>
+- [Development of a Mobile Application That Detects Malware in the Device](https://github.com/mehakashik/SecurEaty)<br>
 
 
 <h2>🎖️ Certifications</h2>
@@ -26,12 +26,11 @@
 [linkedin]: https://www.linkedin.com/in/mehak-security/
 <br>
 
+- 🤔 I’m seeking full time opportunities in the Cybersecurity Domain
 - 🔭 I’m currently working on improving my skills with homelabs
 - 🌱 I’m currently learning more about SIEM tools and its uses
 - 👯 I’m looking to collaborate on cybersecurity projects
-- 🤔 I’m looking for help with my job hunt
 - 💬 Ask me about cybersecurity, best practices
 - 📫 How to reach me: [<img align="" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: ...
--->
+- ⚡ Fun fact: I am also an amateur video editor

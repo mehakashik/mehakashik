@@ -6,6 +6,11 @@
 
 <p align="center"> A detail-oriented cyber security enthusiast and continuous learner </p>
 
+<p  align="center">
+<img src="https://github.com/mehakashik/mehakashik/blob/main/assets/line-neon.gif">             
+</p>
+
+
 <h2>👨‍💻 Cyber Security Projects:</h2>
 - [Mapping Live Cyber Attacks using Azure Sentinel](https://github.com/mehakashik/Mapping-Live-Cyber-Attacks-Using-Azure-Sentinel) <br>
 - [RSA Algorithm](https://github.com/mehakashik/RSA-Algorithm)<br>

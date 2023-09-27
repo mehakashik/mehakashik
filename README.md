@@ -12,7 +12,7 @@
 
 
 <h2>👨‍💻 Cyber Security Projects:</h2>
-- [Mapping Live Cyber Attacks using Azure Sentinel](https://github.com/mehakashik/Mapping-Live-Cyber-Attacks-Using-Azure-Sentinel) <br>
+- [Mapping Live Cyber Attacks using Azure Sentinel] (https://github.com/mehakashik/Mapping-Live-Cyber-Attacks-Using-Azure-Sentinel) <br>
 - [RSA Algorithm](https://github.com/mehakashik/RSA-Algorithm)<br>
 - [Development of a Mobile Application That Detects Malware in the Device](https://github.com/mehakashik/SecurEaty)<br>
 - Analysis of Privacy and Security of Passwordless Authentication Services

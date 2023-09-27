@@ -29,7 +29,7 @@ Operationg System: Windows: XP/7/10, Linux: Ubuntu/Kali, Android <br>
 Vulnerability Management Tools: Nmap, Burpsuite, Metasploit, Snort (IDS/IPS) <br>
 SIEM Technology: Microsoft Sentinel, Splunk <br>
 Other tools: VirtualBox, VMware, Microsoft Azure, Active Directory <br>
-Soft Skills: Detail-Oriented, Effective Communicator, Organized, Team Player, Adaptable, Critical Thinking, Problem Solving Ability <br>
+Soft Skills: Detail-Oriented, Effective Communicator, Organized, Team Player, Adaptable, Critical Thinking, Problem Solving Mindset <br>
 <br>
 Strong Understanding of OWASP Top 10, ISO 27001, NIST framework, MITRE ATT&CK
 

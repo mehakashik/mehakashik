@@ -48,6 +48,5 @@ Strong Understanding of OWASP Top 10, ISO 27001, NIST framework, MITRE ATT&CK
 - 🌱 I’m currently learning more about SIEM tools and its uses
 - 👯 I’m looking to collaborate on cybersecurity projects
 - 💬 Ask me about cybersecurity, best practices
-- 📫 How to reach me: [<img align="" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I am also an amateur video editor

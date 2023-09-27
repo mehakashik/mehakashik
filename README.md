@@ -1,18 +1,22 @@
 <h1>Hi, I'm Mehak! <br/><a href="https://www.linkedin.com/in/mehak-security/">Cybersecurity Analyst</a></h1>
 
 <h2>👨‍💻 Cyber Security Projects:</h2>
-- [Mapping Live Cyber Attacks Using Azure Sentinel](https://github.com/mehakashik)
+- https://github.com/mehakashik/Mapping-Live-Cyber-Attacks-Using-Azure-Sentinel
 
 
 <h2>🎖️ Certifications</h2>
 
-- [CompTIA Security+](https://www.credly.com/badges/9fd1d2bd-afaf-4ba9-859e-0ff483615615/public_url)
+- [CompTIA Security+](https://www.credly.com/badges/9fd1d2bd-afaf-4ba9-859e-0ff483615615/public_url) 
 - [ISC2 Certified in Cybersecurity](https://www.credly.com/badges/66ba3ceb-1d30-4e3a-a54c-ed76d506e0f7/public_url)
+
+<h2>🏫 Education</h2>
+- Concordia University (M.Engg) : Information Systems Security <br>
+- Gujarat Technological University (B.Engg) : information and Communication Technology
 
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="mehakashik | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="mehakashik | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 [instagram]: https://www.instagram.com/mehakashik/
 [linkedin]: https://www.linkedin.com/in/mehak-security/

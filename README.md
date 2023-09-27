@@ -23,6 +23,10 @@
 
 - [CompTIA Security+](https://www.credly.com/badges/9fd1d2bd-afaf-4ba9-859e-0ff483615615/public_url) 
 - [ISC2 Certified in Cybersecurity](https://www.credly.com/badges/66ba3ceb-1d30-4e3a-a54c-ed76d506e0f7/public_url)
+- [Splunk User Behaviour Analytics](https://education.splunk.com/award/completion/676d4123-647e-34bf-9e65-d7b42e005560.)
+- [Fortinet Network Security Expert Level 1: Certified Associate](https://training.fortinet.com/mod/customcert/verify_certificate.php)
+- [Fortinet Network Security Expert Level 2: Certified Associate](https://training.fortinet.com/mod/customcert/verify_certificate.php)
+- [Cisco Introduction to Cybersecurity](https://www.credly.com/earner/earned/badge/50126b67-ab0b-4bb6-8cef-7b0cdcaffe2e)
 
 <h2>🏫 Education</h2>
 

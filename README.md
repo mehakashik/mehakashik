@@ -21,6 +21,18 @@
 - Concordia University (M.Engg) : Information Systems Security <br>
 - Gujarat Technological University (B.Engg) : information and Communication Technology
 
+<h2> 🛠️ Skills</h2>
+Programming/Scripting: Java, C, C++, SQL, Python, HTML/CSS <br>
+Database Technologies: MySQL <br>
+Networking: TCP/IP, Routing, Switching, WAN, LAN, DNS <br>
+Operationg System: Windows: XP/7/10, Linux: Ubuntu/Kali, Android <br>
+Vulnerability Management Tools: Nmap, Burpsuite, Metasploit, Snort (IDS/IPS) <br>
+SIEM Technology: Microsoft Sentinel, Splunk <br>
+Other tools: VirtualBox, VMware, Microsoft Azure, Active Directory <br>
+Soft Skills: Detail-Oriented, Effective Communicator, Organized, Team Player, Adaptable, Critical Thinking, Problem Solving Ability <br>
+<br>
+Strong Understanding of OWASP Top 10, ISO 27001, NIST framework, MITRE ATT&CK
+
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="mehakashik | LinkedIn" width="22px" src="https://github.com/mehakashik/mehakashik/blob/main/assets/linkedin.png" />][linkedin]
@@ -30,9 +42,7 @@
 [linkedin]: https://www.linkedin.com/in/mehak-security/
 <br>
 <br>
-<br>
-<br>
-<br>
+
 - 🤔 I’m seeking full time opportunities in the Cybersecurity Domain
 - 🔭 I’m currently working on improving my skills with homelabs
 - 🌱 I’m currently learning more about SIEM tools and its uses

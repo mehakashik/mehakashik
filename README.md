@@ -1,6 +1,10 @@
 <h1>Hi, I'm Mehak! <br/><a href="https://www.linkedin.com/in/mehak-security/">Cybersecurity Analyst</a></h1>
 
-https://github.com/mehakashik/mehakashik/blob/main/giphy.gif
+<p align="center">
+  <img src="https://github.com/mehakashik/mehakashik/blob/main/giphy.gif">
+</p>
+
+<p align="center"> A detail-oriented cyber security enthusiast and continuous learner </p>
 
 <h2>👨‍💻 Cyber Security Projects:</h2>
 - [Mapping Live Cyber Attacks using Azure Sentinel](https://github.com/mehakashik/Mapping-Live-Cyber-Attacks-Using-Azure-Sentinel) <br>

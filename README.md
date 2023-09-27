@@ -11,7 +11,7 @@
 </p>
 
 
-<h2>👨‍💻 Cyber Security Projects:</h2>
+<h2>👨‍💻 Cyber Security Projects</h2>
 
 - [Mapping Live Cyber Attacks using Azure Sentinel](https://github.com/mehakashik/Mapping-Live-Cyber-Attacks-Using-Azure-Sentinel)
 - [RSA Algorithm](https://github.com/mehakashik/RSA-Algorithm)
@@ -45,7 +45,7 @@ Soft Skills: Detail-Oriented, Effective Communicator, Organized, Team Player, Ad
 <br>
 Strong Understanding of OWASP Top 10, ISO 27001, NIST framework, MITRE ATT&CK
 
-<h2> 🤳 Let's Connect!</h2>
+<h2> 🔗 Let's Connect!</h2>
 
 [<img align="left" alt="mehakashik | LinkedIn" width="22px" src="https://github.com/mehakashik/mehakashik/blob/main/assets/linkedin.png" />][linkedin]
 [<img align="left" alt="mehakashik | Instagram" width="22px" src="https://github.com/mehakashik/mehakashik/blob/main/assets/instagram.png" />][instagram]

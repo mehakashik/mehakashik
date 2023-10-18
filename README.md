@@ -14,7 +14,7 @@
 <h2>👨‍💻 Cyber Security Projects</h2>
 
 - [Home Lab: Mapping Live Cyber Attacks using Azure Sentinel](https://github.com/mehakashik/Mapping-Live-Cyber-Attacks-Using-Azure-Sentinel)
-- Home Lab: Active Directory and Virtualization Infrastructure
+- [Home Lab: Active Directory and Virtualization Infrastructure](https://github.com/mehakashik/Active-Directory-and-Virtualization-Infrastructure)
 - Home Lab: Cyberseurity Vulnerability Management Project
 - [RSA Algorithm](https://github.com/mehakashik/RSA-Algorithm)
 - [Development of a Android Application that Detects Malware in a Mobile Device [SecurEaty]](https://github.com/mehakashik/SecurEaty)

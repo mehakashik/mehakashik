@@ -17,7 +17,7 @@
 - [Home Lab: Active Directory and Virtualization Infrastructure](https://github.com/mehakashik/Active-Directory-and-Virtualization-Infrastructure)
 - Home Lab: Cyberseurity Vulnerability Management Project
 - [RSA Algorithm](https://github.com/mehakashik/RSA-Algorithm)
-- [Development of a Android Application that Detects Malware in a Mobile Device [SecurEaty]](https://github.com/mehakashik/SecurEaty)
+- [SECUREATY - Android OS Security and Attack Simulation](https://github.com/mehakashik/SecurEaty)
 
 
 <h2>🎖️ Certifications</h2>
@@ -65,3 +65,6 @@ Strong Understanding of OWASP Top 10, ISO 27001, NIST framework, MITRE ATT&CK
 - 💬 Ask me about cybersecurity, best practices
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I am also an amateur video editor
+
+
+[def]: https://github.com/mehakashik/SecurEaty

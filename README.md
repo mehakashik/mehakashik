@@ -18,7 +18,6 @@
 - Home Lab: Cyberseurity Vulnerability Management Project
 - [RSA Algorithm](https://github.com/mehakashik/RSA-Algorithm)
 - [Development of a Android Application that Detects Malware in a Mobile Device [SecurEaty]](https://github.com/mehakashik/SecurEaty)
-- Analysis of Privacy and Security of Passwordless Authentication Services
 
 
 <h2>🎖️ Certifications</h2>

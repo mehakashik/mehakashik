@@ -35,7 +35,7 @@
 - Gujarat Technological University (B.Engg) : information and Communication Technology
 
 <h2> 🛠️ Skills</h2>
-Programming/Scripting:          Java, C, C++, SQL, Python, HTML/CSS <br>
+Programming/Scripting:          Java, C, C++, SQL, Python, HTML/CSS, Powershell <br>
 Database Technologies:          MySQL <br>
 Networking:                     TCP/IP, Routing, Switching, WAN, LAN, DNS <br>
 Operationg System:              Windows: XP/7/10, Server 2019, Linux: Ubuntu/Kali, Android <br>

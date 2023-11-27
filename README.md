@@ -49,10 +49,8 @@ Strong Understanding of OWASP Top 10, ISO 27001, NIST framework, MITRE ATT&CK
 <h2> 🔗 Let's Connect!</h2>
 
 [<img align="left" alt="mehakashik | LinkedIn" width="22px" src="https://github.com/mehakashik/mehakashik/blob/main/assets/linkedin.png" />][linkedin]
-[<img align="left" alt="mehakashik | Instagram" width="22px" src="https://github.com/mehakashik/mehakashik/blob/main/assets/instagram.png" />][instagram]
 
-[instagram]: https://www.instagram.com/mehakashik/
-[linkedin]: https://www.linkedin.com/in/mehak-security/
+[linkedin]: https://www.linkedin.com/in/mehakinfosec/
 <br>
 <p  align="center">
 <img src="https://github.com/mehakashik/mehakashik/blob/main/assets/line-neon.gif">             

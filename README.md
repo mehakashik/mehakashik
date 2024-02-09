@@ -4,8 +4,6 @@
   <img src="https://github.com/mehakashik/mehakashik/blob/main/assets/Computer-Animation-black.gif">
 </p>
 
-<p align="center"> A driven and detail-oriented cyber security professional </p>
-
 <p  align="center">
 <img src="https://github.com/mehakashik/mehakashik/blob/main/assets/line-neon.gif">             
 </p>

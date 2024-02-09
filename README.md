@@ -18,19 +18,19 @@
 <h2>Experience</h2>
 
 - Cybersecurity Mentorship Intern, Risk Stifle | Halifax, Nova Scotia
-  - An active participant in a mentorship program led by a Senior Infosec professional with over 18 years of experience across diverse domains, including nuclear plants, airports, consultancy, and critical infrastructure. Through this mentorship initiative, I gained insights into cybersecurity practices within a realistic industry setting. It facilitated my comprehension of security controls, threat risk assessment, threat modeling, the NIST framework, and penetration testing tools.
+  An active participant in a mentorship program led by a Senior Infosec professional with over 18 years of experience across diverse domains, including nuclear plants, airports, consultancy, and critical infrastructure. Through this mentorship initiative, I gained insights into cybersecurity practices within a realistic industry setting. It facilitated my comprehension of security controls, threat risk assessment, threat modeling, the NIST framework, and penetration testing tools.
 
   The mentorship program provided hands-on learning in a virtual environment, mirroring an actual industry setup. We delved into various risk scenarios and learned how to manage risks associated with each scenario through multiple workshops effectively. I now feel confident in handling endpoint controls and am well-versed in enterprise security controls and practices. This ongoing learning journey enables me to deepen my understanding of cybersecurity practices and frameworks, adopting a practical approach tailored for enterprise-level security.
 
   Projects Under the Program 
-  • Risk assessment of a web portal. 
-  • Penetration testing of different websites. 
-  • Secure the cloud environment for a client. 
-  • Managed project with Agile methodologies
-  • Tuned the PAM environment with CyberArk tool.
-  • Implement the NIST 800-53 controls for compliance with NIST framework.
-  • Malware Analysis.
-  • Vulnerability management using tools Nessus & Rapid 7.
+  - Risk assessment of a web portal. 
+  - Penetration testing of different websites. 
+  - Secure the cloud environment for a client. 
+  - Managed project with Agile methodologies
+  - Tuned the PAM environment with CyberArk tool.
+  - Implement the NIST 800-53 controls for compliance with NIST framework.
+  - Malware Analysis.
+  - Vulnerability management using tools Nessus & Rapid 7.
 
 <h2>Cyber Security Projects</h2>
 

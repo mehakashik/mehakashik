@@ -10,8 +10,8 @@
 
 <h2>Education </h2>
 
-- Concordia University (M.Engg) : Information Systems Security <br>
-- Gujarat Technological University (B.Engg) : information and Communication Technology
+- **Concordia University (M.Engg)** : *Information Systems Security* <br>
+- **Gujarat Technological University (B.Engg)** : *Information and Communication Technology*
 
 <h2>Experience</h2>
 

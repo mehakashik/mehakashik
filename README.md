@@ -17,9 +17,8 @@
 
 <h2>Experience</h2>
 
-- Cybersecurity Mentorship Intern, Risk Stifle | Halifax, Nova Scotia
-  An active participant in a mentorship program led by a Senior Infosec professional with over 18 years of experience across diverse domains, including nuclear plants, airports, consultancy, and critical infrastructure. Through this mentorship initiative, I gained insights into cybersecurity practices within a realistic industry setting. It facilitated my comprehension of security controls, threat risk assessment, threat modeling, the NIST framework, and penetration testing tools.
-
+- Cybersecurity Mentorship Intern, Risk Stifle | Halifax, Nova Scotia <br>
+ 
   The mentorship program provided hands-on learning in a virtual environment, mirroring an actual industry setup. We delved into various risk scenarios and learned how to manage risks associated with each scenario through multiple workshops effectively. I now feel confident in handling endpoint controls and am well-versed in enterprise security controls and practices. This ongoing learning journey enables me to deepen my understanding of cybersecurity practices and frameworks, adopting a practical approach tailored for enterprise-level security.
 
   Projects Under the Program 
@@ -32,7 +31,14 @@
   - Malware Analysis.
   - Vulnerability management using tools Nessus & Rapid 7.
 
-<h2>Cyber Security Projects</h2>
+- Information Technology Support Analyst, Oasis | Kerala, India <br>
+  - Providing continuous Application support with small enhancements to the Storenet application.
+  - Monitoring the JIRA tool to observe defined tasks and help the Build team fix issues accordingly.
+  - Creating test scripts for build tasks (enhancements) and logging the test results using the HP ALM tool.
+  - Preparing weekly status reports and coordinating weekly status calls.
+
+
+<h2>Cyber Security Home Lab/Group Projects</h2>
 
 - [Home Lab: Cyberseurity Vulnerability Management Project using Nessus](https://github.com/mehakashik/Cybersecurity-Vulnerability-Management-Project-using-Nessus)
 - [Home Lab: Mapping Live Cyber Attacks using Azure Sentinel](https://github.com/mehakashik/Mapping-Live-Cyber-Attacks-Using-Azure-Sentinel)

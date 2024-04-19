@@ -1,4 +1,4 @@
-<h1>Hi, I'm Mehak! <br/><a href="https://www.linkedin.com/in/mehak-security/">Cyber Security Professional</a></h1>
+<h1>Hi, I'm Mehak! <br/>Cyber Security Professional</h1>
 
 <p align="center">
   <img src="https://github.com/mehakashik/mehakashik/blob/main/assets/Computer-Animation-black.gif">

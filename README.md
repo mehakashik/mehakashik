@@ -15,10 +15,7 @@
 
 <h2>Experience</h2>
 
-- **Cybersecurity Mentorship Intern, Risk Stifle** | *Halifax, Nova Scotia* <br>
- 
-  The mentorship program provided hands-on learning in a virtual environment, mirroring an actual industry setup. We delved into various risk scenarios and learned how to manage risks associated with each scenario through multiple workshops effectively. I now feel confident in handling endpoint controls and am well-versed in enterprise security controls and practices. This ongoing learning journey enables me to deepen my understanding of cybersecurity practices and frameworks, adopting a practical approach tailored for enterprise-level security.
-
+- **Junior Cybersecurity Analyst Intern, Risk Stifle** | *Halifax, Nova Scotia* <br>
   Projects Under the Program 
   - Risk assessment of a web portal. 
   - Penetration testing of different websites. 
@@ -28,12 +25,6 @@
   - Implement the NIST 800-53 controls for compliance with NIST framework.
   - Malware Analysis.
   - Vulnerability management using tools Nessus & Rapid 7.
-
-- **Information Technology Support Analyst, Oasis** | *Kerala, India* <br>
-  - Providing continuous Application support with small enhancements to the Storenet application.
-  - Monitoring the JIRA tool to observe defined tasks and help the Build team fix issues accordingly.
-  - Creating test scripts for build tasks (enhancements) and logging the test results using the HP ALM tool.
-  - Preparing weekly status reports and coordinating weekly status calls.
 
 
 <h2>Cyber Security Home Lab/Group Projects</h2>

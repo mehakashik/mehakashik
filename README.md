@@ -16,16 +16,10 @@
 <h2>Experience</h2>
 
 - **Junior Cybersecurity Analyst Intern, Risk Stifle** | *Halifax, Nova Scotia* <br>
-  Projects Under the Program 
-  - Risk assessment of a web portal. 
-  - Penetration testing of different websites. 
-  - Secure the cloud environment for a client. 
-  - Managed project with Agile methodologies
-  - Tuned the PAM environment with CyberArk tool.
-  - Implement the NIST 800-53 controls for compliance with NIST framework.
-  - Malware Analysis.
-  - Vulnerability management using tools Nessus & Rapid 7.
-
+  - Collaborated with senior analysts to implement threat detection strategies using the MITRE ATT&CK framework, assisting in identifying and mitigating adversary Tactics, Techniques, and Procedures (TTPs). 
+  - Assisted in integrating standard and non-standard logs into the SIEM platform (Splunk), contributing to improved data analysis, faster threat detection, and enhanced operational workflows. 
+  - Contributed to vulnerability management efforts by utilizing tools such as Nessus and Rapid7, assisting in the identification, assessment, and documentation of vulnerabilities across systems.
+  - Supported the application of the NIST Cybersecurity Framework, particularly NIST 800-53 controls, and helped automate compliance processes to reduce potential security gaps.
 
 <h2>Cyber Security Home Lab/Group Projects</h2>
 
@@ -40,14 +34,12 @@
 
 - [CompTIA Security+](https://www.credly.com/badges/9fd1d2bd-afaf-4ba9-859e-0ff483615615/public_url) 
 - [ISC2 Certified in Cybersecurity](https://www.credly.com/badges/66ba3ceb-1d30-4e3a-a54c-ed76d506e0f7/public_url)
+- [Microsoft Certified: Azure Fundamentals (AZ-900)](https://learn.microsoft.com/api/credentials/share/en-us/MehakA-2519/811C4BC5DEE5FAC1?sharingId=3219B109A2901E39)
 - [Splunk User Behaviour Analytics](https://education.splunk.com/award/completion/676d4123-647e-34bf-9e65-d7b42e005560.)
-- [Fortinet Network Security Expert Level 1: Certified Associate](https://training.fortinet.com/mod/customcert/verify_certificate.php)
-- [Fortinet Network Security Expert Level 2: Certified Associate](https://training.fortinet.com/mod/customcert/verify_certificate.php)
 - [Cisco Introduction to Cybersecurity](https://www.credly.com/earner/earned/badge/50126b67-ab0b-4bb6-8cef-7b0cdcaffe2e)
 
 <h2>Skills</h2>
-Programming/Scripting:          Java, C, C++, SQL, Python, HTML/CSS, Powershell <br>
-Database Technologies:          MySQL <br>
+Programming/Scripting:          Java, SQL, Python, HTML/CSS, Powershell <br>
 Networking:                     TCP/IP, Routing, Switching, WAN, LAN, DNS <br>
 Operationg System:              Windows: XP/7/10, Server 2019, Linux: Ubuntu/Kali, Android <br>
 Vulnerability Management Tools: Nmap, Burpsuite, Metasploit, Snort (IDS/IPS), Nessus <br>
